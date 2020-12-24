@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: #222;
+
+  }
+
+p {
+    font-size: 1.3rem;
+}
+
+h1 {
+    color: #2b8993; 
+}
+
+.glenImg {
+    width: 16em;
+    margin: 4em auto 2em auto;
+    display: block;
+}
+
+.titleText {
+    margin-bottom: 2em;
+    font-weight: 300;
+}
+
+.col-lg-6.aboutInfo {
+    font-size: 1.5rem;
+    color: #2b8993;
+}
+
+.col-lg-6.educationInfo {
+    font-size: 1.5rem;
+    color: #2b8993;
+}
+
+.container.meatSection {
+    margin-top: 3em;
+}
+
+.container.meatSection h2,
+.container.meatSection h3 {
+    color: #5ba682;
+}
+
+
+.jobImg {
+    width: 100%;
+    border-radius: 0.3rem;
+}
